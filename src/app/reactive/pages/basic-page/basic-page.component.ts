@@ -52,7 +52,7 @@ export class BasicPageComponent implements OnInit {
       }
     }
 
-    return 'Hola Mundo'
+    return null
   }
 
   onSave(): void {
